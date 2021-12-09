@@ -125,6 +125,17 @@
   .blogsection {
     margin: 2rem 0 3rem 0;
   }
+
+  .download {
+    max-width: 600px;
+    margin: auto;
+    padding: 0.5rem;
+    color: #4F46E5;
+    border-radius: 0.5rem;
+    font-weight: bold;
+    border: 2px solid var(--primary-color);
+    align-items: center;
+  }
   
   /* para */
   
